@@ -1,0 +1,27 @@
+body{
+    background-color: #CFFCFF;
+    font-family: 'Courier New', Courier, monospace;
+}
+#canvas{
+    box-shadow: 1px 3px 3px #0A0F0D;
+}
+#item-cointaner{
+    border: 1px solid black;
+    height: auto;
+    width: 500px;
+}
+#item-combobox{
+    border: 2px solid #0A0F0D;
+    border-radius: 5px;
+    margin-top: 10px;
+    width: 500px;
+}
+#item-combobox:hover{
+    color:white;
+    background-color: purple;
+    box-shadow: 1px 3px 3px #0A0F0D;
+    font-weight: bold;
+}
+#item-textbox{
+    width: 240px;
+}
